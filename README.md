@@ -7,9 +7,9 @@
 译者：[飞龙](https://github.com/) 等
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/modern-java/details)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/modern-java)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/modern-java)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/modern-java)
++ [PDF 格式](https://www.gitbook.com/download/pdf/book/wizardforcel/modern-java)
++ [EPUB 格式](https://www.gitbook.com/download/epub/book/wizardforcel/modern-java)
++ [MOBI 格式](https://www.gitbook.com/download/mobi/book/wizardforcel/modern-java)
 + [Github](https://github.com/wizardforcel/modern-java-zh)
 
 ## 赞助我
